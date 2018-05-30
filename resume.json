@@ -33,7 +33,6 @@
       "position": "DevOPS / Front-End Developper",
       "website": "https://moncompte.ariarynet.com",
       "startDate": "2016-12-12",
-      "endDate": "Now()",
       "summary": "Ariary.NET is an online payment platform bringing together Malagasy money mobile operators, banks, microfinance institutions and finally an international digital payment operator. The customer's online portfolio is accessible via the web, facebook , mobile app, third party mobile app and qrCode for payment in physical stores",
       "highlights": [
         "Manage cloud sever : AWS and Google Cloud",
@@ -59,7 +58,6 @@
       "area": "Architecture and CyberSecurity",
       "studyType": "Semester 08",
       "startDate": "2017-10-01",
-      "endDate": "Now",
       "gpa": "",
       "courses": []
     },
@@ -76,8 +74,8 @@
       "institution": "EST-UF",
       "area": "Computer Science",
       "studyType": "Licence  IT in Application Development",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2013-10-10",
+      "endDate": "2017-01-10",
       "gpa": "",
       "courses": []
     }
@@ -85,13 +83,13 @@
   "awards": [
     {
       "title": "Meilleure Innovation ",
-      "date": "2017",
+      "date": "2017-10-15",
       "awarder": "ExpoFinance Madagascar",
       "summary": "Ariary.NET is an online payment platform in Madagascar. Several kinds of prototypes have been exposed as: Online payment on Malagasy shopping websites with Ariary.NET, Feeding your Ariary account via M-Vola, Orange Money or Airtel Money, Management of your Ariary portfolio on the platform (requires an internet connection) or on a Facebook application in FreeBasics (Orange Madagascar facebook package), Payment with QR Code, just photograph the QR CODE of the merchant with your smartphone and Ariary application will automatically pay your cart."
     },
     {
       "title": "Hackathon #RiSK ",
-      "date": "2017",
+      "date": "2016-10-15",
       "awarder": "OIF",
       "summary": "This marathon of innovation offers the 50 participants to bring digital solutions against the priority IT risks identified by their country. In practice, candidates (developers, designers, system administrators, etc.) have been assigned a set of open source and computer-based scripting tools to implement their project."
     }
