@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "10"
+before_script:
+  - npm install
+script:
+  - npm run export-html
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master
+  target-branch: master
