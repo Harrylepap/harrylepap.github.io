@@ -1,0 +1,197 @@
+{
+  "basics": {
+    "name": "Bako Harry  Rakotondratompo",
+    "label": "DevOPS / Linux System Administrator",
+    "picture": "",
+    "email": "bako.harry.rakotondratompo@esti.mg",
+    "phone": "+261 33 70 282 67",
+    "website": "http://bakoharry.io",
+    "summary": "Harry is from Madagascar. He did these studies everywhere to acquire his thirst for knowledge in computer science. Before joining the startup Ariary.NET, he worked for the BOA, ANRE as a system and network administrator. While his work focuses on the world, he spends his free time learning in the web and machine learning.",
+    "location": {
+      "address": "Bloc 31 Porte 03 B à 67ha Nord-Est",
+      "postalCode": "Antananarivo 101",
+      "city": "Antananarivo",
+      "countryCode": "MG",
+      "region": "Analamanga"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Bako Harry Rakotondratompo",
+        "url": "https://www.linkedin.com/in/bako-harry-rakotondratompo/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Harrylepap",
+        "url": "https://github.com/Harrylepap"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Ariary.NET",
+      "position": "DevOPS / Front-End Developper",
+      "website": "https://moncompte.ariarynet.com",
+      "startDate": "2016-12-12",
+      "endDate": "Now()",
+      "summary": "Ariary.NET is an online payment platform bringing together Malagasy money mobile operators, banks, microfinance institutions and finally an international digital payment operator. The customer's online portfolio is accessible via the web, facebook , mobile app, third party mobile app and qrCode for payment in physical stores",
+      "highlights": [
+        "Manage cloud sever : AWS and Google Cloud",
+        "Progressive Web App development",
+        "Optimized cloud architecture and network availability"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "DjangoGirl Antananarivo",
+      "position": "Mentor",
+      "website": "https://djangogirls.org/antananarivo/",
+      "startDate": "2017-11-01",
+      "endDate": "2017-12-01",
+      "summary": "Django Girls is an international non-profit organization started by two Polish women, Ola Sitarska and Ola Sendecka, to inspire women from all backgrounds to get interested in technology and to become programmers,offering a safe and friendly environment. It is known for the free workshops it hosts to help women to learn to program and for its Django tutorial.It is often supported by the Python Software Foundation.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "ESTI ",
+      "area": "Architecture and CyberSecurity",
+      "studyType": "Semester 08",
+      "startDate": "2017-10-01",
+      "endDate": "Now",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University Of Antananarivo",
+      "area": "MISA",
+      "studyType": "Semestre 05",
+      "startDate": "2017-03-01",
+      "endDate": "2017-09-15",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "EST-UF",
+      "area": "Computer Science",
+      "studyType": "Licence  IT in Application Development",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Meilleure Innovation ",
+      "date": "2017",
+      "awarder": "ExpoFinance Madagascar",
+      "summary": "Ariary.NET is an online payment platform in Madagascar. Several kinds of prototypes have been exposed as: Online payment on Malagasy shopping websites with Ariary.NET, Feeding your Ariary account via M-Vola, Orange Money or Airtel Money, Management of your Ariary portfolio on the platform (requires an internet connection) or on a Facebook application in FreeBasics (Orange Madagascar facebook package), Payment with QR Code, just photograph the QR CODE of the merchant with your smartphone and Ariary application will automatically pay your cart."
+    },
+    {
+      "title": "Hackathon #RiSK ",
+      "date": "2017",
+      "awarder": "OIF",
+      "summary": "This marathon of innovation offers the 50 participants to bring digital solutions against the priority IT risks identified by their country. In practice, candidates (developers, designers, system administrators, etc.) have been assigned a set of open source and computer-based scripting tools to implement their project."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Anti-Spam | Filtrage Bayes",
+      "publisher": "ESTI",
+      "releaseDate": "2014-10-01",
+      "website": "http://esti.mg",
+      "summary": "Naive Bayes Classifier is a popular algorithm in Machine Learning. It is a supervised learning algorithm used for classification. It is particularly useful for text classification issues. An example of using Naive Bayes is that of the anti-spam filter."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "PHP",
+        "JavaScript",
+        "Django",
+        "Flask",
+        "Fat-Free",
+        "Codeigniter",
+        "Symfony",
+        "AngularJS",
+        "BootStrap",
+        "Materialize"
+      ]
+    },
+    {
+      "name": "Network administration",
+      "level": "Master",
+      "keywords": [
+        "Debian",
+        "RedHat",
+        "CISCO"
+      ]
+    },
+    {
+      "name": "System Administration",
+      "level": "Junior",
+      "keywords": [
+        "Windows Server 2008",
+        "Windows Server 2012"
+      ]
+    },
+    {
+      "name": "Database Administration",
+      "level": "Master",
+      "keywords": [
+        "MySQL",
+        "MariaDB",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Junior",
+      "keywords": [
+        "C",
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "Senior",
+      "keywords": [
+        "Shell",
+        "Batch",
+        "PowerShell",
+        "Ionic",
+        "Wordpress",
+        "IpTables",
+        "WebScrapping"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Malagasy",
+      "fluency": "Mother tongue"
+    },
+    {
+      "language": "Francais",
+      "fluency": "Fluently"
+    },
+    {
+      "language": "English",
+      "fluency": "Medium"
+    },
+    {
+      "language": "Pусский",
+      "fluency": "познание"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
